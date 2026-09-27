@@ -5,104 +5,71 @@
 </p>
 
 <h3 align="center">
-  Python | SQL | PySpark | Databricks | Snowflake
+  Computer Science Engineer | Python | SQL | Data Engineering
 </h3>
 
 <p align="center">
-  Currently learning and building my skills in Data Engineering and Data Technologies.
+  Interested in working with data, building data workflows, and learning modern data engineering technologies.
 </p>
 
 ---
 
-### 📚 Currently Learning
+## 👨‍💻 About Me
 
-- 🐍 Python
-- 🗄️ SQL
-- ⚡ PySpark
-- 🔥 Databricks
-- ❄️ Snowflake
+- 🎓 B.Tech in Computer Science Engineering
+- 🐍 Working with **Python**
+- 🗄️ Learning and working with **SQL**
+- ⚡ Learning **PySpark** for large-scale data processing
+- 🔥 Learning **Databricks** for data engineering and data processing
+- ❄️ Learning **Snowflake** for cloud data warehousing
+- 🧩 Practicing problem solving with **LeetCode**
+- 📚 Continuously improving my understanding through hands-on practice and projects
+- 🎯 Interested in **Data Engineering and Data Technologies**
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Querying
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+### 📊 Data Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+</p>
 
 ### 🧩 Problem Solving
 
-- 💻 LeetCode: [methreudaykumar](https://leetcode.com/methreudaykumar/)
-
-### 📫 Contact
-
-- Email: **methreudaykumar@gmail.com**
-- Phone: **+91-9441919023**
-
-### 🔗 Connect with Me
-
-<p align="left">
+<p>
   <a href="https://leetcode.com/methreudaykumar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-         alt="LeetCode"
-         height="30"
-         width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 📂 What I'm Building & Practicing
 
-<p align="left">
+My learning is focused on understanding how data moves through a modern data environment:
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="Python"
-       width="45"
-       height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-       alt="SQL"
-       width="45"
-       height="45"/>
-</a>
-
-<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C"
-       alt="PySpark"
-       width="45"
-       height="45"/>
-</a>
-
-<a href="https://www.databricks.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/databricks/FF3621"
-       alt="Databricks"
-       width="45"
-       height="45"/>
-</a>
-
-<a href="https://www.snowflake.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8"
-       alt="Snowflake"
-       width="45"
-       height="45"/>
-</a>
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=udaykumarcoder&show_icons=true&locale=en"
-       alt="udaykumarcoder" />
-</p>
-
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=udaykumarcoder&show_icons=true&locale=en&layout=compact"
-       alt="udaykumarcoder" />
-</p>
-
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=udaykumarcoder"
-       alt="udaykumarcoder" />
-</p>
+```text
+          Raw Data
+             ↓
+          Python
+             ↓
+            SQL
+             ↓
+          PySpark
+             ↓
+        Databricks
+             ↓
+         Snowflake
+             ↓
+      Data Engineering
