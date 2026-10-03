@@ -19,6 +19,8 @@
 - 🎓 B.Tech in Computer Science Engineering
 - 🐍 Working with **Python**
 - 🗄️ Learning and working with **SQL**
+- 📊 Working with **Power BI** for data visualization and analytics
+- 📗 Working with **Excel** for data analysis and reporting
 - ⚡ Learning **PySpark** for large-scale data processing
 - 🔥 Learning **Databricks** for data engineering and data processing
 - ❄️ Learning **Snowflake** for cloud data warehousing
