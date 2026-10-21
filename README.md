@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  Computer Science Engineer | Python | SQL | Data Engineering
+  Computer Science Engineer | Python | SQL | Data Engineering | AWS
 </h3>
 
 <p align="center">
@@ -24,6 +24,7 @@
 - ⚡ Learning **PySpark** for large-scale data processing
 - 🔥 Learning **Databricks** for data engineering and data processing
 - ❄️ Learning **Snowflake** for cloud data warehousing
+- ☁️ Learning AWS for cloud computing and data engineering
 - 🧩 Practicing problem solving with **LeetCode**
 - 📚 Continuously improving my understanding through hands-on practice and projects
 - 🎯 Interested in **Data Engineering and Data Technologies**
@@ -45,6 +46,7 @@
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 </p>
 
 ### 🧩 Problem Solving
